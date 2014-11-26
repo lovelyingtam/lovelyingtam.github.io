@@ -1,0 +1,1 @@
+PARSELY.pInit({"apikey":"blog.parsely.com","settings":{"debug":false,"widget":false,"tracker":true},"customizations":null,"track_ip_addresses":true,"bundle":"/code/ptrack_engaged_time_1.0.js","track_third_party_cookies":true,"uuid":"b0519c7d-f90a-4463-87a6-caafd5b8cf36"});
