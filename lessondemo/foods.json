@@ -1,0 +1,54 @@
+{
+  "foods": [
+    {
+      "color": "Red",
+      "name": "Apple",
+      "price": 3.2
+    },
+    {
+      "color": "Red",
+      "name": "Legumes",
+      "price": 5
+    },
+    {
+      "color": "Green",
+      "name": "Edible plants",
+      "price": 10
+    },
+    {
+      "color": "Brown",
+      "name": "Edible nuts and seeds",
+      "price": 7
+    },
+    {
+      "color": "Brown",
+      "name": "Breads",
+      "price": 4.5
+    },
+    {
+      "color": "Yellow",
+      "name": "Eggs",
+      "price": 1.3
+    },
+    {
+      "color": "Pink",
+      "name": "Meat",
+      "price": 20
+    },
+    {
+      "color": "Blue",
+      "name": "Seafood",
+      "price": 80
+    },
+    {
+      "color": "Black",
+      "name": "Staple food",
+      "price": 9
+    },
+    {
+      "color": "Orange",
+      "name": "Soups",
+      "price": 20
+    }
+  ]
+}
