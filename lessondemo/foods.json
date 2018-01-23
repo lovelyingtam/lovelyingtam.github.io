@@ -2,51 +2,61 @@
   "foods": [
     {
       "color": "Red",
+      "image": "http://lovelyingtam.github.io/lessondemo/image/RedApple.jpg",
       "name": "Apple",
       "price": 3.2
     },
     {
-      "color": "Red",
+      "color": "Brown",
+      "image": "http://lovelyingtam.github.io/lessondemo/image/Legumes.jpeg",
       "name": "Legumes",
       "price": 5
     },
     {
       "color": "Green",
-      "name": "Edible plants",
+      "image": "http://lovelyingtam.github.io/lessondemo/image/Plants.jpg",
+      "name": "Plants",
       "price": 10
     },
     {
       "color": "Brown",
-      "name": "Edible nuts and seeds",
+      "image": "http://lovelyingtam.github.io/lessondemo/image/Nuts.jpg",
+      "name": "Nuts and seeds",
       "price": 7
     },
     {
       "color": "Brown",
+      "image": "http://lovelyingtam.github.io/lessondemo/image/Breads.jpg",
       "name": "Breads",
       "price": 4.5
     },
     {
       "color": "Yellow",
+      "image": "http://lovelyingtam.github.io/lessondemo/image/Eggs.jpeg",
       "name": "Eggs",
       "price": 1.3
     },
     {
       "color": "Pink",
+      "image": "http://lovelyingtam.github.io/lessondemo/image/Meats.jpg",
       "name": "Meat",
       "price": 20
     },
     {
       "color": "Blue",
+      "image": "http://lovelyingtam.github.io/lessondemo/image/Seafood.jpg",
       "name": "Seafood",
       "price": 80
     },
     {
       "color": "Black",
-      "name": "Staple food",
+      "image": "http://lovelyingtam.github.io/lessondemo/image/Bobbatlu.jpg",
+      "name": "Bobbatlu",
       "price": 9
     },
     {
       "color": "Orange",
+      "image": "http://lovelyingtam.github.io/lessondemo/image/Soups.jpg",
       "name": "Soups",
       "price": 20
     }
