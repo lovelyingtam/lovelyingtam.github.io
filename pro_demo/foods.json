@@ -3,86 +3,86 @@
     {
       "color": "Yellow",
       "image": "http://lovelyingtam.github.io/pro_demo/image/t1.jpeg",
-      "name": "Apple",
+      "name": "Lion 01",
       "price": 3.2
     },
     {
-      "color": "Brown",
+      "color": "Yellow and Black",
       "image": "http://lovelyingtam.github.io/pro_demo/image/t2.jpeg",
-      "name": "Legumes",
+      "name": "Leopard",
       "price": 5
     },
     {
-      "color": "Green",
+      "color": "Brown",
       "image": "http://lovelyingtam.github.io/pro_demo/image/t3.jpeg",
-      "name": "Plants",
+      "name": "Lion 02",
       "price": 10
     },
     {
       "color": "Brown",
       "image": "http://lovelyingtam.github.io/pro_demo/image/t4.jpeg",
-      "name": "Nuts and seeds",
+      "name": "elephant",
       "price": 7
     },
     {
-      "color": "Brown",
+      "color": "White and Black",
       "image": "http://lovelyingtam.github.io/pro_demo/image/t5.jpeg",
-      "name": "Breads",
+      "name": "Panda",
       "price": 4.5
     },
     {
-      "color": "Yellow",
+      "color": "Brown",
       "image": "http://lovelyingtam.github.io/pro_demo/image/t6.jpeg",
-      "name": "Eggs",
+      "name": "Sheep",
       "price": 1.3
     },
     {
-      "color": "Pink",
+      "color": "Brown",
       "image": "http://lovelyingtam.github.io/pro_demo/image/t7.jpeg",
-      "name": "Meat",
+      "name": "Bear",
       "price": 20
     },
     {
-      "color": "Blue",
+      "color": "Gray",
       "image": "http://lovelyingtam.github.io/pro_demo/image/t8.jpeg",
-      "name": "Seafood",
+      "name": "Wolf",
       "price": 80
     },
     {
       "color": "Black",
       "image": "http://lovelyingtam.github.io/pro_demo/image/t9.jpeg",
-      "name": "Bobbatlu",
-      "price": 9
+      "name": "Star",
+      "price": 41.2
     },
     {
-      "color": "Black",
-      "image": "http://lovelyingtam.github.io/pro_demo/image/t9.jpeg",
-      "name": "Bobbatlu",
-      "price": 9
+      "color": "Black and White",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t10.jpeg",
+      "name": "Zebra",
+      "price": 0.5
     },
     {
-      "color": "Black",
-      "image": "http://lovelyingtam.github.io/pro_demo/image/t9.jpeg",
-      "name": "Bobbatlu",
-      "price": 9
+      "color": "No color",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t11.jpeg",
+      "name": "Demooooo",
+      "price": 899
     },
     {
-      "color": "Black",
-      "image": "http://lovelyingtam.github.io/pro_demo/image/t9.jpeg",
-      "name": "Bobbatlu",
-      "price": 9
+      "color": "Orange and Black",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t12.jpeg",
+      "name": "Raccoon",
+      "price": 78
     },
     {
-      "color": "Black",
-      "image": "http://lovelyingtam.github.io/pro_demo/image/t9.jpeg",
-      "name": "Bobbatlu",
-      "price": 9
+      "color": "Gray",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t13.jpeg",
+      "name": "Rabbit",
+      "price": 9.5
     },
     {
-      "color": "Orange",
-      "image": "http://lovelyingtam.github.io/pro_demo/image/t110.jpeg",
-      "name": "Soups",
-      "price": 20
+      "color": "Gray and White",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t14.jpeg",
+      "name": "Owl",
+      "price": 20.9
     }
   ]
 }
