@@ -1,0 +1,88 @@
+{
+  "foods": [
+    {
+      "color": "Yellow",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t1.jpeg",
+      "name": "Apple",
+      "price": 3.2
+    },
+    {
+      "color": "Brown",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t2.jpeg",
+      "name": "Legumes",
+      "price": 5
+    },
+    {
+      "color": "Green",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t3.jpeg",
+      "name": "Plants",
+      "price": 10
+    },
+    {
+      "color": "Brown",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t4.jpeg",
+      "name": "Nuts and seeds",
+      "price": 7
+    },
+    {
+      "color": "Brown",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t5.jpeg",
+      "name": "Breads",
+      "price": 4.5
+    },
+    {
+      "color": "Yellow",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t6.jpeg",
+      "name": "Eggs",
+      "price": 1.3
+    },
+    {
+      "color": "Pink",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t7.jpeg",
+      "name": "Meat",
+      "price": 20
+    },
+    {
+      "color": "Blue",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t8.jpeg",
+      "name": "Seafood",
+      "price": 80
+    },
+    {
+      "color": "Black",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t9.jpeg",
+      "name": "Bobbatlu",
+      "price": 9
+    },
+    {
+      "color": "Black",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t9.jpeg",
+      "name": "Bobbatlu",
+      "price": 9
+    },
+    {
+      "color": "Black",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t9.jpeg",
+      "name": "Bobbatlu",
+      "price": 9
+    },
+    {
+      "color": "Black",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t9.jpeg",
+      "name": "Bobbatlu",
+      "price": 9
+    },
+    {
+      "color": "Black",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t9.jpeg",
+      "name": "Bobbatlu",
+      "price": 9
+    },
+    {
+      "color": "Orange",
+      "image": "http://lovelyingtam.github.io/pro_demo/image/t110.jpeg",
+      "name": "Soups",
+      "price": 20
+    }
+  ]
+}

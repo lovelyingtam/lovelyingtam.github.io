@@ -55,6 +55,12 @@
       "price": 9
     },
     {
+      "color": "No color",
+      "image": "http://lovelyingtam.github.io/lessondemo/image/2345djpg",
+      "name": "XXX",
+      "price": 9
+    },
+    {
       "color": "Orange",
       "image": "http://lovelyingtam.github.io/lessondemo/image/Soups.jpg",
       "name": "Soups",
