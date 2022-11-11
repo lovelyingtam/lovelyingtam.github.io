@@ -1,0 +1,217 @@
+{
+    "id": "1000",
+    "nickname": "Ellie",
+    "firstName": "Ying",
+    "lastName": "Tam",
+    "professionalSummary": "Dedicated Mobile Application Development professional with history of meeting company goals utilising consistent and organised practices. Skilled in working under pressure and adapting to new situations and challenges to best enhance the organisational brand.",
+    "email": "ellie.y.tam@gmail.com",
+    "phoneNumber": "+1(289)975–9797",
+    "location": "Greater Toronto Area, ON L4B0G6, Canada",
+    "pictureUrl": "https://raw.githubusercontent.com/lovelyingtam/lovelyingtam.github.io/master/res/profile/profressional_ellietam_crop.jpg",
+    "coverPhotoUrl": "https://raw.githubusercontent.com/lovelyingtam/lovelyingtam.github.io/master/res/cover_photo_2.jpeg",
+    "socialMedia": [
+        {
+            "media": "GitHub",
+            "link": "https://github.com/lovelyingtam"
+        },
+        {
+            "media": "LinkedIn",
+            "link": "https://linkedin.com/in/ellietam"
+        }
+    ],
+    "technicalSkillSet": {
+        "programmingLanguage": [
+            {
+                "id": "2101",
+                "yearOfExperience": 10,
+                "skill": "Java"
+            },
+            {
+                "id": "2102",
+                "yearOfExperience": 2,
+                "skill": "Kotlin"
+            },
+            {
+                "id": "2103",
+                "yearOfExperience": 5,
+                "skill": "JavaScript"
+            },
+            {
+                "id": "2104",
+                "yearOfExperience": 0.5,
+                "skill": "Dart"
+            },
+            {
+                "id": "2105",
+                "yearOfExperience": 0.5,
+                "skill": "Typescript"
+            }
+        ],
+        "developmentFramework": [
+            {
+                "id": "2201",
+                "yearOfExperience": 10,
+                "skill": "Android"
+            },
+            {
+                "id": "2202",
+                "yearOfExperience": 5,
+                "skill": "NodeJS"
+            },
+            {
+                "id": "2203",
+                "yearOfExperience": 1,
+                "skill": "Fastlane"
+            },
+            {
+                "id": "2204",
+                "yearOfExperience": 0.5,
+                "skill": "Flutter"
+            },
+            {
+                "id": "2205",
+                "yearOfExperience": 0.5,
+                "skill": "React Native"
+            }
+        ],
+        "cloudDatabase": [
+            {
+                "id": "2301",
+                "yearOfExperience": 5,
+                "skill": "MongoDB"
+            },
+            {
+                "id": "2302",
+                "yearOfExperience": 0.5,
+                "skill": "PostgreSQL"
+            }
+        ],
+        "expandedSupport": [
+            {
+                "id": "2401",
+                "yearOfExperience": 4,
+                "skill": "AWS"
+            },
+            {
+                "id": "2402",
+                "yearOfExperience": 4,
+                "skill": "Azure"
+            },
+            {
+                "id": "2403",
+                "yearOfExperience": 4,
+                "skill": "DevOps"
+            },
+            {
+                "id": "2404",
+                "yearOfExperience": 4,
+                "skill": "Jenkins"
+            },
+            {
+                "id": "2405",
+                "yearOfExperience": 2,
+                "skill": "Elastic Stack (ELK)"
+            }
+        ]
+    },
+    "workingExperience": [
+        {
+            "id": "2001",
+            "thumbnailUrl": "https://interbrand.com/wp-content/uploads/2020/10/accenture-square.png",
+            "position": [
+                {
+                    "startDate": "2012-12-01",
+                    "endDate": null,
+                    "location": "Canada",
+                    "title": "Application Development Associate Manager",
+                    "employmentType": "Full-Time"
+                },
+                {
+                    "startDate": "2017-03-13",
+                    "endDate": "2021-11-30",
+                    "location": "Hong Kong",
+                    "title": "Digital Application Development Specialist",
+                    "employmentType": "Full-Time"
+                }
+            ],
+            "companyName": "Accenture",
+            "industry": "Information technology",
+            "description": "[TBC] Development multiple mobile applications for Major Aviation Enterprise, Utility Enterprise, Leisure & Entertainment Enterprise.\n\nManaged over 20 individual projects simultaneously for product lifecycle development.\n\nMonitored resource allocation, budget development and personnel recruitment for multiple projects.\n\nManaged and mentored 30 members of the development team to foster proper completion of assigned duties.\n\nResponse to the delivery management, change management, Incident management, Resource management, Client expectation manager and Team management.\n\nAssist and serve as a Scrum Master, carrying out Scrum meetings and scheduling bi-weekly project deliverables with regard to team capabilities, to ensure project transparency and remove impediments.\n\nUsed critical thinking to break down problems, evaluate solutions and make decisions.\n\nIdentified issues, analysed information and provided solutions to problems.\n\nManaged multiple external vendors (i.e IBM, VMware) on different development items and incorporated their increments into our deliverables.\n\nQuickly learned new skills and applied them to daily tasks, improving efficiency and productivity.\n\nDeveloped and maintained courteous and effective working relationships."
+        },
+        {
+            "id": "2003",
+            "thumbnailUrl": "https://media.glassdoor.com/sqll/1191252/jetco-squarelogo-1631016450324.png",
+            "position": [
+                {
+                    "startDate": "2015-11-01",
+                    "endDate": "2017-03-30",
+                    "location": "Hong Kong",
+                    "title": "Analyst Programmer",
+                    "employmentType": "Full-Time"
+                }
+            ],
+            "companyName": "JETCO (Joint Electronic Teller Services Limited)",
+            "industry": "Information technology",
+            "description": "Development on Banking Mobile Application in Android.\n\nServe as a Team Lead of Android mobile team of developing various Mobile Payment Applications.\n\nCompleted projects in alignment with target deadlines and financial objectives.\n\nCollaborated with marketing, key executives, UI designers, and other developers to develop cutting-edge applications for the financial sector without jeopardising data privacy or security.\n\nManaged vendor performance to maximise profitability and achieve financial objectives.\n\nDemonstrated respect, friendliness and willingness to help wherever needed."
+        },
+        {
+            "id": "2004",
+            "thumbnailUrl": "https://www.ranklogos.com/wp-content/uploads/2015/06/Next-Mobile-Logo.png",
+            "position": [
+                {
+                    "startDate": "2017-11-01",
+                    "endDate": "2015-11-30",
+                    "location": "Hong Kong",
+                    "title": "Mobile Software Engineer",
+                    "employmentType": "Full-Time"
+                }
+            ],
+            "companyName": "Next Mobile Limited",
+            "industry": "Information technology",
+            "description": "Developed, maintained and enhancved the Newspaper & Magazine Application in Android.\n\nExceeded goals through effective task prioritisation and great work ethic.\n\nParticipated in team-building activities to enhance working relationships.\n\nEvaluated and improved development work of other developers on team, working to provide training, constructive criticism and knowledge transfer."
+        },
+        {
+            "id": "2005",
+            "thumbnailUrl": "https://dl.airtable.com/.attachments/a60fac82c58f4d9251e2d8d47bc02c96/8afeba04/GT_logo-icon1-01.png",
+            "position": [
+                {
+                    "startDate": "2012-06-20",
+                    "endDate": "2014-11-30",
+                    "location": "Hong Kong",
+                    "title": "Senior Developer",
+                    "employmentType": "Full-Time"
+                }
+            ],
+            "companyName": "Green Tomato Limited",
+            "industry": "Information technology",
+            "description": "Developed multiple Android Application for Leisure & Entertainment Industry.\n\nMentorship of junior developers.\n\nProduced robust, accurate code that minimised production issues.\n\nCollaborated with different functional teams to select ambitious, but realistic coding milestones on pre-release software project development."
+        }
+    ],
+    "education": [
+        {
+            "id": "1101",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Staffordshire_University_Logo.svg/1200px-Staffordshire_University_Logo.svg.png",
+            "startDate": "2013-09-01",
+            "endDate": "2015-06-30",
+            "school": "Staffordshire University",
+            "location": "United Kingdom",
+            "degree": "Bachelor of Science Honours",
+            "fieldOfStudy": "Computing Science",
+            "grade": "???",
+            "description": "TBC??"
+        },
+        {
+            "id": "1102",
+            "thumbnailUrl": "https://vpet.vtc.edu.hk/wiki/images/thumb/d/d0/IVE_logo.png/300px-IVE_logo.png",
+            "startDate": "2008-09-01",
+            "endDate": "2012-06-30",
+            "school": "Hong Kong Institute of Vocational Education",
+            "location": "Hong Kong",
+            "degree": "Higher Diploma",
+            "fieldOfStudy": "Mobile & Internet Games Development",
+            "grade": null,
+            "activitiesAndSocieties": "asdasdasd",
+            "description": null
+        }
+    ]
+}
