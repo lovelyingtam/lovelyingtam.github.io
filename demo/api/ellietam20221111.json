@@ -120,7 +120,7 @@
             "thumbnailUrl": "https://interbrand.com/wp-content/uploads/2020/10/accenture-square.png",
             "position": [
                 {
-                    "startDate": "2012-12-01",
+                    "startDate": "2022-12-01",
                     "endDate": null,
                     "location": "Canada",
                     "title": "Application Development Associate Manager",
@@ -128,7 +128,7 @@
                 },
                 {
                     "startDate": "2017-03-13",
-                    "endDate": "2021-11-30",
+                    "endDate": "2021-12-30",
                     "location": "Hong Kong",
                     "title": "Digital Application Development Specialist",
                     "employmentType": "Full-Time"
@@ -159,8 +159,8 @@
             "thumbnailUrl": "https://www.ranklogos.com/wp-content/uploads/2015/06/Next-Mobile-Logo.png",
             "position": [
                 {
-                    "startDate": "2017-11-01",
-                    "endDate": "2015-11-30",
+                    "startDate": "2015-11-30",
+                    "endDate": "2017-11-01",
                     "location": "Hong Kong",
                     "title": "Mobile Software Engineer",
                     "employmentType": "Full-Time"
