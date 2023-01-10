@@ -197,8 +197,9 @@
             "location": "United Kingdom",
             "degree": "Bachelor of Science Honours",
             "fieldOfStudy": "Computing Science",
-            "grade": "???",
-            "description": "TBC??"
+            "grade": null,
+            "activitiesAndSocieties": null,
+            "description": null
         },
         {
             "id": "1102",
@@ -210,7 +211,7 @@
             "degree": "Higher Diploma",
             "fieldOfStudy": "Mobile & Internet Games Development",
             "grade": null,
-            "activitiesAndSocieties": "asdasdasd",
+            "activitiesAndSocieties": null,
             "description": null
         }
     ]
