@@ -4,7 +4,7 @@
     "firstName": "Ying",
     "lastName": "Tam",
     "headline": "Application Development Specialist",
-    "professionalSummary": "I'm an experienced Full-stack Mobile Developer with a passion for pushing boundaries and delivering innovative solutions. With over 10 years of experience, my expertise in Android, Node.JS, Flutter, Java, and DevOps has allowed me to lead agile teams across a variety of industries. What sets me apart is my ability to quickly learn and adapt, consistently exceeding expectations in new development positions within just two months. As a skilled relationship builder, I excel at managing requirements and ensuring project success through effective resource control and progress monitoring. I'm also passionate about making a positive impact and volunteer my skills in my free time.",
+    "professionalSummary": "I'm an experienced Full-stack Mobile Developer with a passion for pushing boundaries and delivering innovative solutions. With over 10 years of experience, my expertise in Android, Node.JS, Flutter, Java, and DevOps has allowed me to lead agile teams across a variety of industries.\n\nWhat sets me apart is my ability to quickly learn and adapt, consistently exceeding expectations in new development positions within just two months.\n\nAs a skilled relationship builder, I excel at managing requirements and ensuring project success through effective resource control and progress monitoring. I'm also passionate about making a positive impact and volunteer my skills in my free time.",
     "email": "ellie.y.tam@gmail.com",
     "phoneNumber": "+1(289)975–9797",
     "location": "Greater Toronto Area, Canada",
@@ -131,9 +131,16 @@
             "thumbnailUrl": "https://interbrand.com/wp-content/uploads/2020/10/accenture-square.png",
             "position": [
                 {
-                    "startDate": "2021-12-01",
+                    "startDate": "2022-06-13",
                     "endDate": null,
                     "location": "Canada",
+                    "title": "Application Development Associate Manager",
+                    "employmentType": "Full-Time"
+                },
+                {
+                    "startDate": "2021-12-01",
+                    "endDate": "2022-05-16",
+                    "location": "Hong Kong",
                     "title": "Application Development Associate Manager",
                     "employmentType": "Full-Time"
                 },
@@ -147,7 +154,7 @@
             ],
             "companyName": "Accenture",
             "industry": "Information technology",
-            "description": "[TBC] Development multiple mobile applications for Major Aviation Enterprise, Utility Enterprise, Leisure & Entertainment Enterprise.\n\nManaged over 20 individual projects simultaneously for product lifecycle development.\n\nMonitored resource allocation, budget development and personnel recruitment for multiple projects.\n\nManaged and mentored 30 members of the development team to foster proper completion of assigned duties.\n\nResponse to the delivery management, change management, Incident management, Resource management, Client expectation manager and Team management.\n\nAssist and serve as a Scrum Master, carrying out Scrum meetings and scheduling bi-weekly project deliverables with regard to team capabilities, to ensure project transparency and remove impediments.\n\nUsed critical thinking to break down problems, evaluate solutions and make decisions.\n\nIdentified issues, analysed information and provided solutions to problems.\n\nManaged multiple external vendors (i.e IBM, VMware) on different development items and incorporated their increments into our deliverables.\n\nQuickly learned new skills and applied them to daily tasks, improving efficiency and productivity.\n\nDeveloped and maintained courteous and effective working relationships."
+            "description": "• Transformed a team of 6 developers into a powerhouse of 40 across Frontend, Backend and Mobile platforms, driving an unprecedented 566% growth in the development team.\n• Led and mentored teams to deliver high-quality products for clients, while overseeing team management, delivery management, client expectation management, and risk management for over 20 individual projects under the agile Scrum framework, across industries such as Utility, Air Carrier, Leisure & Entertainment, and Gambling.\n• Developed software projects using technologies such as Android (Kotlin & Java), Elastic Stack, MongoDB, NodeJS, GitLab, AppCenter, Azure, and JAMF Pro. Also integrated AWS services including Lambda, SQS, SNS, and S3 Bucket."
         },
         {
             "id": "2003",
@@ -161,9 +168,9 @@
                     "employmentType": "Full-Time"
                 }
             ],
-            "companyName": "JETCO (Joint Electronic Teller Services Limited)",
+            "companyName": "Joint Electronic Teller Services Limited (JETCO 銀通)",
             "industry": "Information technology",
-            "description": "Development on Banking Mobile Application in Android.\n\nServe as a Team Lead of Android mobile team of developing various Mobile Payment Applications.\n\nCompleted projects in alignment with target deadlines and financial objectives.\n\nCollaborated with marketing, key executives, UI designers, and other developers to develop cutting-edge applications for the financial sector without jeopardising data privacy or security.\n\nManaged vendor performance to maximise profitability and achieve financial objectives.\n\nDemonstrated respect, friendliness and willingness to help wherever needed."
+            "description": "• Transformed the Peer-to-Peer money transfer experience by revolutionizing the Android application with cutting-edge mobile token security, serving over 500k satisfied users in Hong Kong and beyond.\n• Forged and managed strong partnerships with vendor teams, working closely with 5 prominent banks in Hong Kong to provide exceptional support and service.\n• Implemented robust mobile security measures, including OTP SMS, Mobile Auth Token, and code obfuscation, to ensure unparalleled security for our users' mobile transactions."
         },
         {
             "id": "2004",
@@ -177,9 +184,9 @@
                     "employmentType": "Full-Time"
                 }
             ],
-            "companyName": "Next Mobile Limited",
+            "companyName": "Next Mobile Limited (壹傳媒)",
             "industry": "Information technology",
-            "description": "Developed, maintained and enhancved the Newspaper & Magazine Application in Android.\n\nExceeded goals through effective task prioritisation and great work ethic.\n\nParticipated in team-building activities to enhance working relationships.\n\nEvaluated and improved development work of other developers on team, working to provide training, constructive criticism and knowledge transfer."
+            "description": "• Spearheaded the maintenance and enhancement of the popular Android application, Apple Daily, with a user base of over 1 million Hong Kong residents.\n• Worked closely with cross-functional teams, including product managers and designers, to gather requirements and develop new features to keep the app competitive and relevant.\n• Streamlined video streaming performance to ensure a seamless user experience and boost overall user satisfaction."
         },
         {
             "id": "2005",
@@ -195,7 +202,7 @@
             ],
             "companyName": "Green Tomato Limited",
             "industry": "Information technology",
-            "description": "Developed multiple Android Application for Leisure & Entertainment Industry.\n\nMentorship of junior developers.\n\nProduced robust, accurate code that minimised production issues.\n\nCollaborated with different functional teams to select ambitious, but realistic coding milestones on pre-release software project development."
+            "description": "• Developed multiple Android Applications for various clients with a combined user base of over 145k, including a point redemption app for a shopping mall, a QR camera collection game for a theme park, an insurance plan app for a bank, and a stock planner app.\n• Collaborated with cross-functional teams, including project managers and designers, to gather requirements and develop new features for the apps, ensuring they meet clients' expectations."
         }
     ],
     "education": [
