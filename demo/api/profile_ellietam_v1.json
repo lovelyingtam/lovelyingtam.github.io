@@ -24,7 +24,7 @@
         "programmingLanguage": [
             {
                 "id": "2101",
-                "yearOfExperience": 10,
+                "yearOfExperience": 11,
                 "skill": "Java"
             },
             {
@@ -34,7 +34,7 @@
             },
             {
                 "id": "2103",
-                "yearOfExperience": 5,
+                "yearOfExperience": 6,
                 "skill": "JavaScript"
             },
             {
@@ -51,17 +51,17 @@
         "developmentFramework": [
             {
                 "id": "2201",
-                "yearOfExperience": 10,
+                "yearOfExperience": 11,
                 "skill": "Android"
             },
             {
                 "id": "2202",
-                "yearOfExperience": 5,
+                "yearOfExperience": 6,
                 "skill": "NodeJS"
             },
             {
                 "id": "2203",
-                "yearOfExperience": 1,
+                "yearOfExperience": 2,
                 "skill": "Fastlane"
             },
             {
@@ -78,7 +78,7 @@
         "cloudDatabase": [
             {
                 "id": "2301",
-                "yearOfExperience": 5,
+                "yearOfExperience": 6,
                 "skill": "MongoDB"
             },
             {
@@ -90,28 +90,38 @@
         "expandedSupport": [
             {
                 "id": "2401",
-                "yearOfExperience": 4,
+                "yearOfExperience": 5,
                 "skill": "AWS"
             },
             {
                 "id": "2402",
-                "yearOfExperience": 4,
+                "yearOfExperience": 6,
                 "skill": "Azure"
             },
             {
                 "id": "2403",
-                "yearOfExperience": 4,
+                "yearOfExperience": 6,
                 "skill": "DevOps"
             },
             {
                 "id": "2404",
-                "yearOfExperience": 4,
+                "yearOfExperience": 6,
                 "skill": "Jenkins"
             },
             {
                 "id": "2405",
                 "yearOfExperience": 2,
                 "skill": "Elastic Stack (ELK)"
+            },
+            {
+                "id": "2406",
+                "yearOfExperience": 11,
+                "skill": "JIRA"
+            },
+            {
+                "id": "2407",
+                "yearOfExperience": 7,
+                "skill": "Agile/Scrum"
             }
         ]
     },
