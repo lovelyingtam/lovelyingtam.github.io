@@ -3,10 +3,11 @@
     "nickname": "Ellie",
     "firstName": "Ying",
     "lastName": "Tam",
-    "professionalSummary": "Dedicated Mobile Application Development professional with history of meeting company goals utilising consistent and organised practices. Skilled in working under pressure and adapting to new situations and challenges to best enhance the organisational brand.",
+    "headline": "Application Development Specialist",
+    "professionalSummary": "I'm an experienced Full-stack Mobile Developer with a passion for pushing boundaries and delivering innovative solutions. With over 10 years of experience, my expertise in Android, Node.JS, Flutter, Java, and DevOps has allowed me to lead agile teams across a variety of industries. What sets me apart is my ability to quickly learn and adapt, consistently exceeding expectations in new development positions within just two months. As a skilled relationship builder, I excel at managing requirements and ensuring project success through effective resource control and progress monitoring. I'm also passionate about making a positive impact and volunteer my skills in my free time.",
     "email": "ellie.y.tam@gmail.com",
     "phoneNumber": "+1(289)975–9797",
-    "location": "Greater Toronto Area, ON L4B0G6, Canada",
+    "location": "Greater Toronto Area, Canada",
     "pictureUrl": "https://raw.githubusercontent.com/lovelyingtam/lovelyingtam.github.io/master/res/profile/profressional_ellietam_crop.jpg",
     "coverPhotoUrl": "https://raw.githubusercontent.com/lovelyingtam/lovelyingtam.github.io/master/res/cover_photo_2.jpeg",
     "socialMedia": [
